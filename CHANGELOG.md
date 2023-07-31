@@ -1,3 +1,21 @@
+## TBA
+
+* fixed
+    * shrink-service.it
+* added
+    * earnlink.io
+    * imagetwist.netlify.app
+    * imglekw.site
+    * imgneor.store
+    * imgnmh.cfd
+    * imgotw.store
+    * imgpukxxr.site
+    * imgsdi.website
+    * imgsxo.site
+    * imguthes.sbs
+    * piclerz.store
+    * picuekr.site
+
 ## v7.21.0
 
 * fixed

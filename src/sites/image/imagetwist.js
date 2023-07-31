@@ -1,5 +1,4 @@
 (function () {
-
   _.register({
     rule: [
       {

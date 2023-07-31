@@ -995,13 +995,21 @@
     * imgkoc.buzz
     * imgkorle.buzz
     * imgkuiw.xyz
+    * imglekw.site
     * imgmeno.buzz
+    * imgneor.store
+    * imgnmh.cfd
+    * imgotw.store
     * imgowk.buzz
+    * imgpukxxr.site
     * imgpuloki.online
     * imgqte.buzz
+    * imgsdi.website
     * imgsee.net
+    * imgsxo.site
     * imgsky.net
     * imgtiger.xyz
+    * imguthes.sbs
     * imgvivo.xyz
     * imgwang.buzz
     * imgwav.buzz
@@ -1015,6 +1023,8 @@
     * kekolangti.com
     * lgjreelqq.buzz
     * optiye.buzz
+    * piclerz.store
+    * picuekr.site
     * pixmtke.buzz
     * pyotinle.buzz
 * pics-money.ru
@@ -1114,6 +1124,7 @@
     * dl-protect.com
     * drlink.online
     * durl.me
+    * earnlink.io
     * elsfile.org
     * embedupload.com
     * filemedia.net
@@ -1148,6 +1159,7 @@
     * imageno.com
     * imageshack.us
     * imageshost.ru
+    * imagetwist.netlify.app
     * imageupper.com
     * imagezilla.net
     * img.3ezy.net
